@@ -11,8 +11,10 @@ features = ["responsive", "blog", "simple", "clean", "highlight.js", "syntax hig
 min_version = "0.60.0"
 
 [author]
-  name = "olOwOlo"
   homepage = "https://github.com/olOwOlo"
+
+[params.author]
+  name = "olOwOlo"
 
 # If porting an existing theme
 [original]
